@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：记录阅读
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 063 篇 - 百家乐Ai预测分析工具：分页列表如何核对完整观察区间](https://github.com/TGmszrcsz/baccarat-ai-063) ｜ [下一篇：第 065 篇 - 百家乐Ai预测分析工具：时间排序相邻的两条记录未必属于同一局](https://github.com/TGmszrcsz/baccarat-ai-065)
+
+<!-- article-chain:end -->
+
 列表里存在取消记录，统计时却没有单独说明。本篇围绕“撤销与作废记录应该怎样进入报表”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、为什么值得单独检查
